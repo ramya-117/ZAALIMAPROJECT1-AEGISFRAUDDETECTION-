@@ -9,5 +9,5 @@
 - **Docker Ready**: Kafka & Zookeeper containerized
 - **Performance Metrics**: Accuracy, Precision, Recall, F1-Score
 
-## 📦 Quick Start
+## 📦 Quick Start using start_system.bat
 
